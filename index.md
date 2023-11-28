@@ -3,8 +3,7 @@
 ## Mentor: Brian Duke
 
 **1. What is the most interesting topic covered in your domain this quarter?** \
-The most interesting topic covered in this domain for this quarter has been using tf-idf in our credit score category analysis. It has been useful to see how text words can be split up into the frequency that they come up and the neighbors in which they are often used in context. Not only that, it has been interesting to see how different models such as KNN and basic linear regression compare to one another for models. \ 
-
+The most interesting topic covered in this domain for this quarter has been using tf-idf in our credit score category analysis. It has been useful to see how text words can be split up into the frequency that they come up and the neighbors in which they are often used in context. Not only that, it has been interesting to see how different models such as KNN and basic linear regression compare to one another for models. \
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.** \
 A potential investigation that I would like to pursue in Quarter 2 project is to look at how the use of unsupervised models can affect the accuracy of our category predictons. All of our models used so far has been basic and all are supervised so I would like to see how the use of other models would benefit the accuracies that we are getting for our model. \
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?** \
